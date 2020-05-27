@@ -1,0 +1,9 @@
+{
+  "pretrained_word_embeddings": "/data/dai031/Corpora/GloVe/glove.6B.100d.txt",
+  "word_embedding_size": 100,
+  "char_embedding_size": 16,
+  "action_embedding_size": 20,
+  "lstm_cell_size": 200,
+  "lstm_layers": 2,
+  "dropout": 0.5
+}
