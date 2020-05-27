@@ -1,0 +1,12 @@
+Aches and pains , breathing difficulties , panic attacks , stength and stamina destroyed , palpatations , strong tingling in one hand , some tinititis and occassional ear aches .
+0,2 ADR|4,5 ADR|7,8 ADR|10,13 ADR|15,15 ADR|17,21 ADR|24,24 ADR|27,28 ADR
+
+Have mentioned symptoms as they appeared to my doctor only to be prescribed zorloft for depression and anxiety and noten for heart palpatations .
+13,13 Drug|15,15 ADR|17,17 ADR|19,19 Drug|21,22 ADR
+
+I had an extreme reaction - tunnel vision , vertigo , tingling and numbness ( hands , legs , face ) , complete weakness in the right side of my body including loss of strength , and what I term as complete body flushes ( like a hot flash without the hot ) .
+6,7 ADR|9,9 ADR|11,11,15,15 ADR|13,13,15,15 ADR|11,11,17,17 ADR|11,11,19,19 ADR|13,13,17,17 ADR|13,13,19,19 ADR|22,30 ADR|32,34 ADR|41,52 ADR
+
+40 mg dose Lipitor worked well in reducing my overall cholesterol levels ; which are high in my family .
+3,3 Drug
+
