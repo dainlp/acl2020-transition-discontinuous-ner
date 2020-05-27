@@ -1,0 +1,58 @@
+Extract annotations ...
+11/06/2019 09:46:31 - INFO - __main__ -  Update the mention from (in back weakness) to (weakness in back).
+11/06/2019 09:46:31 - INFO - __main__ -  Update the mention from (in shoulders weakness) to (weakness in shoulders).
+11/06/2019 09:46:31 - INFO - __main__ -  Update the mention from (in legs weakness) to (weakness in legs).
+11/06/2019 09:46:31 - INFO - __main__ -  Update the mention from (pain muscle) to (muscle pain).
+11/06/2019 09:46:31 - INFO - __main__ -  Update the mention from (legs tingling in) to (tingling in legs).
+11/06/2019 09:46:31 - INFO - __main__ -  Update the mention from (arms tingling in) to (tingling in arms).
+11/06/2019 09:46:31 - INFO - __main__ -  Update the mention from (Achilles tendon pain in) to (pain in Achilles tendon).
+11/06/2019 09:46:31 - INFO - __main__ -  Update the mention from (on the back of the head pain in every tendon) to (pain in every tendon on the back of the head).
+11/06/2019 09:46:31 - INFO - __main__ -  Update the mention from (bleeding several times a month menstrual cycle is completely out of whack) to (menstrual cycle is completely out of whack bleeding several times a month).
+11/06/2019 09:46:31 - INFO - __main__ -  Update the mention from (severe joint pains) to (joint pains severe).
+11/06/2019 09:46:31 - INFO - __main__ -  Update the mention from (started going numb legs) to (legs started going numb).
+11/06/2019 09:46:31 - INFO - __main__ -  Update the mention from (serious cramping hands) to (serious hands cramping).
+11/06/2019 09:46:31 - INFO - __main__ -  Update the mention from (in both legs pain) to (pain in both legs).
+11/06/2019 09:46:31 - INFO - __main__ -  Update the mention from (in both legs weakness) to (weakness in both legs).
+11/06/2019 09:46:31 - INFO - __main__ -  Update the mention from (comfortably Couldn't walk) to (Couldn't walk comfortably).
+11/06/2019 09:46:31 - INFO - __main__ -  Update the mention from (comfortably Couldn't sleep) to (Couldn't sleep comfortably).
+11/06/2019 09:46:31 - INFO - __main__ -  Update the mention from (hurts throat) to (throat hurts).
+11/06/2019 09:46:31 - INFO - __main__ -  Update the mention from (very blurry eyesight) to (eyesight very blurry).
+11/06/2019 09:46:31 - INFO - __main__ -  Update the mention from (calves muscle pain in the) to (muscle pain in the calves).
+11/06/2019 09:46:31 - INFO - __main__ -  Update the mention from (thighs muscle pain in the) to (muscle pain in the thighs).
+11/06/2019 09:46:31 - INFO - __main__ -  Update the mention from (back muscle pain in the) to (muscle pain in the back).
+11/06/2019 09:46:31 - INFO - __main__ -  Update the mention from (neck muscle pain in the) to (muscle pain in the neck).
+11/06/2019 09:46:31 - INFO - __main__ -  Update the mention from (glutes muscle pain in the) to (muscle pain in the glutes).
+11/06/2019 09:46:31 - INFO - __main__ -  Update the mention from (Severe pain shoulder) to (Severe shoulder pain).
+11/06/2019 09:46:31 - INFO - __main__ -  Update the mention from (in my knees joint pain) to (joint pain in my knees).
+11/06/2019 09:46:31 - INFO - __main__ -  Update the mention from (eyes microabrasions) to (eyes microabrasion).
+11/06/2019 09:46:31 - INFO - __main__ -  Update the mention from (hurt exploding arm and neck) to (arm and neck hurt exploding).
+11/06/2019 09:46:31 - INFO - __main__ -  Update the mention from (pain in stomach) to (pain i stomach).
+11/06/2019 09:46:31 - INFO - __main__ -  Update the mention from (in arms Tingling) to (Tingling in arms).
+11/06/2019 09:46:31 - INFO - __main__ -  Update the mention from (feet numbing) to (numbing feet).
+11/06/2019 09:46:31 - INFO - __main__ -  Update the mention from (in forearms tightness) to (tightness in forearms).
+11/06/2019 09:46:31 - INFO - __main__ -  Update the mention from (stomach rough) to (rough stomach).
+11/06/2019 09:46:31 - INFO - __main__ -  Update the mention from (in the triceps arm fatigue) to (arm fatigue in the triceps).
+11/06/2019 09:46:31 - INFO - __main__ -  Update the mention from (wrists pain) to (pain wrists).
+11/06/2019 09:46:31 - INFO - __main__ -  Update the mention from (hips pain) to (pain hips).
+11/06/2019 09:46:31 - INFO - __main__ -  Update the mention from (tire very quickly muscles) to (muscles tire very quickly).
+11/06/2019 09:46:31 - INFO - __main__ -  Update the mention from (renal failure) to (rena failure).
+11/06/2019 09:46:31 - INFO - __main__ -  Update the mention from (renal and respiratory failure) to (respiratory failure).
+11/06/2019 09:46:31 - INFO - __main__ -  Update the mention from (painful muscles) to (muscles painful).
+11/06/2019 09:46:31 - INFO - __main__ -  Update the mention from (painful joints) to (joints painful).
+11/06/2019 09:46:31 - INFO - __main__ -  Update the mention from (calves muscle pain in) to (muscle pain in calves).
+11/06/2019 09:46:31 - INFO - __main__ -  Update the mention from (calves joint pain in) to (joint pain in calves).
+11/06/2019 09:46:31 - INFO - __main__ -  Update the mention from (swelling feet) to (feet swelling).
+11/06/2019 09:46:31 - INFO - __main__ -  Update the mention from (knees aches) to (aches knees).
+11/06/2019 09:46:31 - INFO - __main__ -  Update the mention from (back aches) to (aches back).
+11/06/2019 09:46:31 - INFO - __main__ -  Update the mention from (chest aches) to (aches chest).
+11/06/2019 09:46:31 - INFO - __main__ -  Extract 6318 annotations.
+Tokenization ...
+11/06/2019 09:56:25 - INFO - __main__ -  1250 documents, 7597 sentences, 122938 tokens
+Convert annotations from character level offsets to token level idx ...
+11/06/2019 10:10:11 - INFO - __main__ -  Find token whose original end offset is 172 by adjusting its offset 1.
+11/06/2019 10:10:11 - INFO - __main__ -  Find token whose original end offset is 221 by adjusting its offset 1.
+11/06/2019 10:10:11 - INFO - __main__ -  Find token whose original end offset is 415 by adjusting its offset 1.
+11/06/2019 10:10:11 - INFO - __main__ -  Find token whose original start offset is 432 by adjusting its offset 1.
+11/06/2019 10:10:11 - INFO - __main__ -  Convert 6318 out of 6318 annotations.
+Create text inline format ...
+Split the data set into train, dev, test splits ...
