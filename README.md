@@ -8,5 +8,7 @@ Xiang Dai, Sarvnaz Karimi, Ben Hachey, and Cecile Paris. 2020. An Effective Tran
 
 Once you download the dataset, you can use script data/cadec/build_data_for_transition_discontinuous_ner.sh to build the dataset.
 * Sample data can be found at data/sample directory.
+
+
 The script used to train the model on CADEC can be found in code/xdai/ner/transition_discontinuous/cadec.sh
 
