@@ -1,0 +1,27 @@
+11/07/2020 20:27:36 - INFO - __main__ -  1469,1472,1473,1475 in 22821-026994-DISCHARGE_SUMMARY.txt.knowtator.xml is not a real discontinuous entity, as the mention (ABD NT) has no gap.
+11/07/2020 20:27:36 - INFO - __main__ -  1211,1216,1217,1221 in 04303-005081-DISCHARGE_SUMMARY.txt.knowtator.xml is not a real discontinuous entity, as the mention (chest pain) has no gap.
+11/07/2020 20:27:36 - INFO - __main__ -  2453,2460,2466,2474 in 02652-006395-DISCHARGE_SUMMARY.txt.knowtator.xml is not a real discontinuous entity, as the mention (ABSCESS RT FLANK) has no gap.
+11/07/2020 20:27:36 - INFO - __main__ -  2453,2460,2466,2474 in 02652-006395-DISCHARGE_SUMMARY.txt.knowtator.xml is not a real discontinuous entity, as the mention (ABSCESS RT FLANK) has no gap.
+11/07/2020 20:27:45 - INFO - __main__ -  07797-005646-DISCHARGE_SUMMARY.txt||Disease_Disorder||C0456867||554||577||580||588 is not a real discontinuous entity, as the mention (high grade large B-cell lymphoma) has no gap.
+11/07/2020 20:33:34 - INFO - __main__ -  9758 sentences and 142159 tokens in /data/dai031/Corpora/ShAReCLEF2013/train/text
+11/07/2020 20:33:42 - INFO - __main__ -  9009 sentences and 136783 tokens in /data/dai031/Corpora/ShAReCLEF2013/test/text
+11/07/2020 20:37:47 - INFO - __main__ -  This annotation from document 00098-016139-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+11/07/2020 20:37:47 - INFO - __main__ -  This annotation from document 04303-005081-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+11/07/2020 20:37:47 - INFO - __main__ -  Find token whose original end offset is 5869 by adjusting its offset 1.
+11/07/2020 20:37:47 - INFO - __main__ -  Find token whose original end offset is 2475 by adjusting its offset 1.
+11/07/2020 20:37:47 - INFO - __main__ -  Find token whose original end offset is 178 by adjusting its offset -1.
+11/07/2020 20:37:47 - INFO - __main__ -  This annotation from document 07429-001857-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+11/07/2020 20:37:47 - INFO - __main__ -  This annotation from document 02410-026171-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+11/07/2020 20:37:47 - INFO - __main__ -  This annotation from document 01234-029456-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+11/07/2020 20:37:47 - INFO - __main__ -  This annotation from document 21833-003461-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+11/07/2020 20:37:47 - INFO - __main__ -  Find token whose original end offset is 605 by adjusting its offset 1.
+11/07/2020 20:37:47 - INFO - __main__ -  Find token whose original start offset is 886 by adjusting its offset 1.
+11/07/2020 20:37:47 - INFO - __main__ -  Convert 5815 out of 5821 annotations.
+11/07/2020 20:37:47 - INFO - __main__ -  This annotation from document 19778-001791-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+11/07/2020 20:37:47 - INFO - __main__ -  This annotation from document 19778-001791-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+11/07/2020 20:37:47 - INFO - __main__ -  This annotation from document 08990-002227-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+11/07/2020 20:37:47 - INFO - __main__ -  This annotation from document 08990-002227-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+11/07/2020 20:37:47 - INFO - __main__ -  This annotation from document 07797-005646-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+11/07/2020 20:37:47 - INFO - __main__ -  This annotation from document 09339-028983-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+11/07/2020 20:37:47 - INFO - __main__ -  This annotation from document 09339-028983-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+11/07/2020 20:37:47 - INFO - __main__ -  Convert 5333 out of 5340 annotations.
