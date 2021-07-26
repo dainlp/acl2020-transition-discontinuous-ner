@@ -12,3 +12,5 @@ Once you download the dataset, you can use script data/cadec/build_data_for_tran
 
 The script used to train the model on CADEC can be found in code/xdai/ner/transition_discontinuous/cadec.sh
 
+#### Update data/share2013/script.sh at 2021-July-26
+* Add details about how to extract and rename these downloaded files
